@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383186593580",
+    "project_id": "fochka-travel-app",
+    "storage_bucket": "fochka-travel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383186593580:android:2893957fa90596812cee89",
+        "android_client_info": {
+          "package_name": "com.Fochka.pfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383186593580-0tkq2opm6qvsj3kfi0iu0njngu990roi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEPtkKwcc6v9oJvYcG3OfBbHH9FUBGiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383186593580-0tkq2opm6qvsj3kfi0iu0njngu990roi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
