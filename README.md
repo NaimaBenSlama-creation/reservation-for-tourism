@@ -1,4 +1,4 @@
-# pfe
+# Flutter app
 
 A new Flutter project.
 
